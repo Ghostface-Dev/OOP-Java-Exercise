@@ -1,7 +1,9 @@
 # This is a series of OOP exercises in Java that I'm doing.
 Just to put the concepts into practice.
 
-# PROBLEMS
+CLASS, OBJECT AND ATTRIBUTES
+
+## PROBLEMS
 
 1 - Write a programm to read the width and height values of a rectangle. In the next, print the value of its area, perimeter and diagonal.
 
